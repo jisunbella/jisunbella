@@ -1,5 +1,7 @@
-### Jisun Lee
-## Web Developer | Front-End Developer
+## Jisun Lee
+### Web Developer
+
+
 
 <!--
 **jisunbella/jisunbella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
