@@ -1,5 +1,5 @@
-## Jisun Lee
-### Web Developer
+
+### Jisun Lee
 
 
 
