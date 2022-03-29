@@ -4,8 +4,7 @@
 
 ### _SKILLS_
 <h6>Front-end</h6>
-/badge/<vue.js>-<vue.js>-<#4FC08D>
-
+<img src="https://img.shields.io/badge/#4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisunbella)](https://github.com/anuraghazra/github-readme-stats)
