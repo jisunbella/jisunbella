@@ -1,12 +1,13 @@
-## Hi, 안녕하세요! I am Jisun Lee.
-### I am a front-end web developer from South Korea 🇰🇷
-
-### _SKILLS_
-<h6>Front-end</h6>
-<img src="https://img.shields.io/badge/#4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
+## Hello World!
+I am a front-end web developer from South Korea 🇰🇷
 
 
+### My GitHub Status!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisunbella)](https://github.com/anuraghazra/github-readme-stats)
 
-
+### My Top Languages!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisunbella&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjisunbella%2F&count_bg=%23C0D5A6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
