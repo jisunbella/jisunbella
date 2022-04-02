@@ -1,5 +1,5 @@
-## Hello World!
-I am a front-end web developer from South Korea 🇰🇷
+## Hi there! 🙋‍♀️
+I am Jisun, a Front-End Web developer from South Korea 🇰🇷
 
 
 ### My GitHub Status!
