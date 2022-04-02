@@ -1,6 +1,5 @@
-## Jisun Lee
-### _Web Developer | Front-End Developer_
-
+## Hi, 안녕하세요! I am Jisun Lee.
+### I am a front-end web developer from South Korea 🇰🇷
 
 ### _SKILLS_
 <h6>Front-end</h6>
