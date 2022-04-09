@@ -1,11 +1,14 @@
 ## Hi there! 🙋‍♀️
 I am Jisun, a Front-End Web developer from South Korea 🇰🇷
 
+### Skills
 
-### My GitHub Status!
+
+
+### My GitHub Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisunbella)](https://github.com/anuraghazra/github-readme-stats)
 
-### My Top Languages!
+### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisunbella&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
