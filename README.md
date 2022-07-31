@@ -1,4 +1,4 @@
-## Hi there! 🙋‍♀️
+## Hello world 🙋‍♀️
 I am Jisun, a Front-End Web developer from South Korea 🇰🇷
 
 ### Skills
