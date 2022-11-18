@@ -1,5 +1,5 @@
 ## Hello world 🙋‍♀️
-I am Jisun 
+I am Jisun, 
 a Web developer with 3 years working with JavaScript, Vue.js, and ASP.NET in South Korea.
 
 ### My GitHub Status
