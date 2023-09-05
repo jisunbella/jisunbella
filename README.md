@@ -1,6 +1,9 @@
-## Hello world 🙋‍♀️
-I am Jisun, 
-a Web developer with 3 years working with JavaScript, Vue.js, and ASP.NET based in South Korea.
+## 안녕하세요! Hi guys 🙋‍♀️
+
+This is Jisun Lee
+a Frontend Web Developer with 3 years experience 
+working with JavaScript, Vue.js, and ASP.NET based in South Korea 🇰🇷
+
 
 ### My GitHub Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisunbella)](https://github.com/anuraghazra/github-readme-stats)
