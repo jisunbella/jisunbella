@@ -1,8 +1,10 @@
-## 안녕하세요! Hi guys 🙋‍♀️
+## 안녕하세요! Hi guys 👋
 
-This is Jisun Lee <br/>
-a Frontend Web Developer with 3 years experience <br/>
-working with JavaScript, Vue.js, and ASP.NET based in South Korea 🇰🇷<br/>
+This is Jisun Lee 👩🏻‍💻 <br/>
+A Frontend Web Developer with 3 years experience <br/>
+Using JavaScript, React.js, Vue.js and C# <br/>
+Based in South Korea 🇰🇷 <br/>
+
 
 
 ### My GitHub Status
