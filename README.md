@@ -3,7 +3,7 @@
 
 > A Frontend Web Developer with 3 years experience   
 > Mainly using JavaScript, React.js, Vue.js and C# ✨   
-> Wanna be a React Developer ➿ studying React.js 💖   
+> Wanna be a React Developer ➿ studying React.js 
 > Based in South Korea 🇰🇷   
 
 <br/>
