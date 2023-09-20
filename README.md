@@ -1,4 +1,4 @@
-### Hello, This is Jisun
+### Hello, This is Jisun 🙋‍♀️
 <a href="https://www.linkedin.com/in/jisunbella/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a> <a href="mailto:easysun93@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 > A Frontend Web Developer with 3 years experience   
