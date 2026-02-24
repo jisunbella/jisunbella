@@ -15,11 +15,3 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" /> <img src="https://img.shields.io/badge/SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 
 <br/>
-
-### Top Languages & GitHub Stats   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisunbella&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisunbella)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjisunbella&count_bg=%23BABABA&title_bg=%231D1D1D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
