@@ -1,4 +1,4 @@
-# Hi This is Jisun
+# Jisun Lee
 
 Front-end Developer with 2y 5m of experience in Next.js, React.js, and TypeScript.
 
